@@ -2,7 +2,7 @@
 
 int main(){
 	cout << "Hello world!\n";
-	cout << "branching\n";
+	cout << "Second commit in main branch\n";
 	
 	return 0;
 }
